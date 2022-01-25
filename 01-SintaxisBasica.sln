@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.17
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001-SintaxisBasica", "01-SintaxisBasica\001-SintaxisBasica.csproj", "{458244CF-4276-4EB0-AAEE-1EE298265859}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01", "1\01.csproj", "{C6877C0A-B5DC-4799-BD91-BA832C320250}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02", "2\02.csproj", "{421C1DD1-06C1-4BF2-905D-C0660CB20045}"
@@ -69,10 +67,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{458244CF-4276-4EB0-AAEE-1EE298265859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{458244CF-4276-4EB0-AAEE-1EE298265859}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{458244CF-4276-4EB0-AAEE-1EE298265859}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{458244CF-4276-4EB0-AAEE-1EE298265859}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C6877C0A-B5DC-4799-BD91-BA832C320250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C6877C0A-B5DC-4799-BD91-BA832C320250}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6877C0A-B5DC-4799-BD91-BA832C320250}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -201,5 +195,6 @@ Global
 		$0.VersionControlPolicy = $1
 		$1.CommitMessageStyle = $2
 		$2.IncludeDirectoryPaths = True
+		$2.LineAlign = 0
 	EndGlobalSection
 EndGlobal
