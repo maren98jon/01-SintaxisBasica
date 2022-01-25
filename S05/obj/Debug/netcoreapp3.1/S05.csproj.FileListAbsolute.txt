@@ -1,0 +1,13 @@
+/Users/maren/Projects/01-SintaxisBasica/S05/bin/Debug/netcoreapp3.1/S05.deps.json
+/Users/maren/Projects/01-SintaxisBasica/S05/bin/Debug/netcoreapp3.1/S05.runtimeconfig.json
+/Users/maren/Projects/01-SintaxisBasica/S05/bin/Debug/netcoreapp3.1/S05.runtimeconfig.dev.json
+/Users/maren/Projects/01-SintaxisBasica/S05/bin/Debug/netcoreapp3.1/S05.dll
+/Users/maren/Projects/01-SintaxisBasica/S05/bin/Debug/netcoreapp3.1/S05.pdb
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.csproj.AssemblyReference.cache
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.AssemblyInfoInputs.cache
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.AssemblyInfo.cs
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.csproj.CoreCompileInputs.cache
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.dll
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.pdb
+/Users/maren/Projects/01-SintaxisBasica/S05/obj/Debug/netcoreapp3.1/S05.genruntimeconfig.cache

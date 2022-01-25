@@ -1,0 +1,13 @@
+/Users/maren/Projects/01-SintaxisBasica/13/bin/Debug/netcoreapp3.1/13.deps.json
+/Users/maren/Projects/01-SintaxisBasica/13/bin/Debug/netcoreapp3.1/13.runtimeconfig.json
+/Users/maren/Projects/01-SintaxisBasica/13/bin/Debug/netcoreapp3.1/13.runtimeconfig.dev.json
+/Users/maren/Projects/01-SintaxisBasica/13/bin/Debug/netcoreapp3.1/13.dll
+/Users/maren/Projects/01-SintaxisBasica/13/bin/Debug/netcoreapp3.1/13.pdb
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.csproj.AssemblyReference.cache
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.AssemblyInfoInputs.cache
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.AssemblyInfo.cs
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.csproj.CoreCompileInputs.cache
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.dll
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.pdb
+/Users/maren/Projects/01-SintaxisBasica/13/obj/Debug/netcoreapp3.1/13.genruntimeconfig.cache
